@@ -47,5 +47,5 @@ black -> BK, red -> RD, green -> GN, yellow -> YW, blue -> BE, magenta -> MA, cy
 catnap -- [iinsertnamehere](https://github.com/iinsertnamehere)  
 cat ascii art -- [pfetch with kitties](https://github.com/GuardKenzie/pfetch-with-kitties) by [guardkenzie](https://github.com/GuardKenzie)  
   
-## legal  
-catnap -- and as an extension, kittynap -- is licensed under the [mit license](license)  
+## license  
+catnap -- and as an extension, kittynap -- is licensed under the [mit license](LICENSE)  
