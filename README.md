@@ -15,7 +15,7 @@ you will need the packages nim, gzip, pcre, and usbutils.
   
 now, clone this repository  
 ```bash
-git clone https://github.com/blahaj-rip/kittynap
+git clone https://github.com/blahaj-rip/kittynap --depth 1 
 ```
 
 and change directory into kittynap  
@@ -32,16 +32,29 @@ now, you can run kittynap!
 ```bash
 catnap
 ```
-  
+> [!NOTE]
+> even though the project name is different, the command stays `catnap`.
+
 ## demo  
 ![screenshot](image/demo.png)  
   
 ## customisation  
 by default, the colours will be those of the nonbinary pride flag. sometimes, these colours can be hard to read, or you just simply may not like them.  
 you can change this by modifying the colours in ~/.config/distros.toml and config.toml  
-the available colour options are:  
-foreground (normal) -> (#), foreground (bright) -> {#}, background normal -> [#], background bright -> <#>.  
-black -> BK, red -> RD, green -> GN, yellow -> YW, blue -> BE, magenta -> MA, cyan -> CN, white -> WE.  
+  
+### colour options  
+foreground (normal) -> (#), foreground (bright) -> {#}  
+background normal -> [#], background bright -> <#>  
+  
+### colours
+black -> BK  
+red -> RD  
+green -> GN  
+yellow -> YW  
+blue -> BE  
+magenta -> MA  
+cyan -> CN  
+white -> WE    
   
 ## credits  
 catnap -- [iinsertnamehere](https://github.com/iinsertnamehere)  
