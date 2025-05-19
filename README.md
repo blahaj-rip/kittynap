@@ -43,19 +43,28 @@ by default, the colours will be those of the nonbinary pride flag. sometimes, th
 you can change this by modifying the colours in ~/.config/distros.toml and config.toml  
   
 ### colour options  
-foreground (normal) -> (#), foreground (bright) -> {#}  
-background normal -> [#], background bright -> <#>  
+foreground (normal) -> `(#)`, foreground (bright) -> `{#}`  
+background normal -> `[#]`, background bright -> `<#>`  
   
 ### colours
-black -> BK  
-red -> RD  
-green -> GN  
-yellow -> YW  
-blue -> BE  
-magenta -> MA  
-cyan -> CN  
-white -> WE    
+black -> `BK`  
+red -> `RD`  
+green -> `GN`  
+yellow -> `YW`  
+blue -> `BE`  
+magenta -> `MA`  
+cyan -> `CN`  
+white -> `WE`    
   
+### example
+so, using the above colour codes, we can get this:  
+```
+"{YW} /| ､      ",
+"{WE}(°､ ｡ 7    ",
+"{MA} |､  ~ヽ   ",
+"{BK} じしf_,)〳",
+```
+
 ## credits  
 catnap -- [iinsertnamehere](https://github.com/iinsertnamehere)  
 cat ascii art -- [pfetch with kitties](https://github.com/GuardKenzie/pfetch-with-kitties) by [guardkenzie](https://github.com/GuardKenzie)  
